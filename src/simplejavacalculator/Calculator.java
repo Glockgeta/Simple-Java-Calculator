@@ -128,6 +128,7 @@ public class Calculator {
     }
   public void myName() {
 	  System.out.println("Albert Sun");
+	  System.out.println("Yes");
   }
 
 }
